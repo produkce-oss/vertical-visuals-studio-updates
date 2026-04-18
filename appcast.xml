@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Vertical Visuals Studio</title>
+    <link>https://produkce-oss.github.io/vertical-visuals-studio-updates/appcast.xml</link>
+    <description>Auto-update feed for Vertical Visuals Studio.</description>
+    <language>en</language>
+  </channel>
+</rss>
