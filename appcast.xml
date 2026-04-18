@@ -1,9 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Vertical Visuals Studio</title>
-    <link>https://produkce-oss.github.io/vertical-visuals-studio-updates/appcast.xml</link>
-    <description>Auto-update feed for Vertical Visuals Studio.</description>
-    <language>en</language>
-  </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vertical Visuals Studio</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 18 Apr 2026 16:55:16 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://produkce-oss.github.io/vertical-visuals-studio-updates/Vertical%20Visuals%20Studio-1.0.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.1/Vertical%20Visuals%20Studio-1.0.1.zip" length="1263694318" type="application/octet-stream" sparkle:edSignature="///df3NIz+aGGiMnykiQqu4Wmb8xZChfD8z11gTpHrOStnbOvdAlOcK6OS22P4rMGbuIu9cCtXOyXRTmltyrAA=="/>
+        </item>
+    </channel>
 </rss>
