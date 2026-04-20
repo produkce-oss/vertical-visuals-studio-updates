@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.2/Vertical%20Visuals%20Studio-1.0.2.zip" length="1273746499" type="application/octet-stream" sparkle:edSignature="+cvDXktyO4iRt/Y707JsQZkXS8+JMGwrhgerD1Hm+LT5mGiX0+JuEwEvwKcJ84pl4IaNzP9Ud/2SlnA5krnvAw=="/>
+            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.2/Vertical.Visuals.Studio-1.0.2.zip" length="1273746499" type="application/octet-stream" sparkle:edSignature="+cvDXktyO4iRt/Y707JsQZkXS8+JMGwrhgerD1Hm+LT5mGiX0+JuEwEvwKcJ84pl4IaNzP9Ud/2SlnA5krnvAw=="/>
         </item>
     </channel>
 </rss>
