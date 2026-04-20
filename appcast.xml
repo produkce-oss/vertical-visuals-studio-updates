@@ -3,14 +3,13 @@
     <channel>
         <title>Vertical Visuals Studio</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 18 Apr 2026 16:55:16 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Mon, 20 Apr 2026 14:18:03 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://produkce-oss.github.io/vertical-visuals-studio-updates/Vertical%20Visuals%20Studio-1.0.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.1/Vertical.Visuals.Studio-1.0.1.zip" length="1263694318" type="application/octet-stream" sparkle:edSignature="///df3NIz+aGGiMnykiQqu4Wmb8xZChfD8z11gTpHrOStnbOvdAlOcK6OS22P4rMGbuIu9cCtXOyXRTmltyrAA=="/>
+            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.2/Vertical%20Visuals%20Studio-1.0.2.zip" length="1273746499" type="application/octet-stream" sparkle:edSignature="+cvDXktyO4iRt/Y707JsQZkXS8+JMGwrhgerD1Hm+LT5mGiX0+JuEwEvwKcJ84pl4IaNzP9Ud/2SlnA5krnvAw=="/>
         </item>
     </channel>
 </rss>
