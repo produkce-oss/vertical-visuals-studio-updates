@@ -3,15 +3,19 @@
     <channel>
         <title>Vertical Visuals Studio</title>
         <item>
-            <title>1.0.13</title>
-            <pubDate>Thu, 23 Apr 2026 17:40:04 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <title>1.0.14</title>
+            <pubDate>Thu, 23 Apr 2026 18:31:37 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.13/Vertical.Visuals.Studio-1.0.13.zip" length="1207034632" type="application/octet-stream" sparkle:edSignature="Ua6QPUunXOpxd2B3QwLxcOJVugCAJvg5RsUjbuBM4bokdhbLzQcpZtJWGdUDbN+rkFF9dp+N5WoH1yeaJxofDQ=="/>
+            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.14/Vertical.Visuals.Studio-1.0.14.zip" length="1207606528" type="application/octet-stream" sparkle:edSignature="lz8/bUOLzYQ6W1TXPT4dEpKWp1BGDHt5XC0fcRQJFIVaQkjk9SYrcuD/AcXnk1fUM+vFKmuYnl9POsBzTQqWDQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.13/Vertical.Visuals.Studio14-13.delta" sparkle:deltaFrom="13" length="707311" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JG0HPI7StTyD11BabRSmNxz0Y72Vdhsjc+K9lM6FrCdjeNDrVSsI3a+PombghIBZ9T9zhoax/l3bIXD9QGMRCg=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.14/Vertical.Visuals.Studio15-14.delta" sparkle:deltaFrom="14" length="1416119" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FSz4stX3Kf7hDIp4bqDWImL5WP7h/VPsZFJGwFe3Yjjelv0FqFsB+nNS+WDgjrQsF/Y9he18h0VpHFWKoaMOBQ=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.14/Vertical.Visuals.Studio15-13.delta" sparkle:deltaFrom="13" length="1551044" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8+tIJwpak/yh2VmSwQ4dXhnMt+yGrf5Bs41KkIOq45CVMzQvpj5f75vTLlBF5SvMA6qHdpl68ynj4T0fERCsBw=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.14/Vertical.Visuals.Studio15-12.delta" sparkle:deltaFrom="12" length="1568821" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w5SjASIzoJc4Z7/XGLLkupI/aozHG9kYQbwVwir5bCwx6bykhH+2Ds7b1J0+aOSAKRRy2B0R8eyQJSKJjEWqDQ=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.14/Vertical.Visuals.Studio15-11.delta" sparkle:deltaFrom="11" length="1590989" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m5x7/1E8QBmNcEiuoM/ZbPA1Z+pjUGwogkV7tInFB0kxP65/gkDoemisZATS37Y5i1RRACnijZvKG+DXcZjpAQ=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.0.14/Vertical.Visuals.Studio15-10.delta" sparkle:deltaFrom="10" length="1602162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1oYCRK9nnqzAOiga6FyVHSh4OxIprlbY5lu6vMOr31+5p8eNRVZQ0e0Jn3SsyA056ZEO/b5PexZuFGfBa+wPCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
