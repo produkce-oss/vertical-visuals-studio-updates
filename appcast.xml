@@ -3,19 +3,19 @@
     <channel>
         <title>Vertical Visuals Studio</title>
         <item>
-            <title>1.2.18</title>
-            <pubDate>Fri, 22 May 2026 09:45:33 +0200</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.2.18</sparkle:shortVersionString>
+            <title>2.0.0</title>
+            <pubDate>Fri, 12 Jun 2026 09:28:30 +0200</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.2.18/Vertical.Visuals.Studio-1.2.18.zip" length="1210499785" type="application/octet-stream" sparkle:edSignature="AM9j06kDMfp4VT29ZHRNmrey5Ey696nAbwO9WYYxrugfdIwJk2CfSgwnq4fD30YvC6vWDJNfguGP81NjqkWvAw=="/>
+            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.0.0/Vertical.Visuals.Studio-2.0.0.zip" length="1135285754" type="application/octet-stream" sparkle:edSignature="1qkaytN3Q6RwJD/UV+5tyqiMH2rChhX0QSs3pI1UZKQapUVE6leyITSqrfOLXJWIgM6ZQxdiYjkIu2QRb7pSCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.2.18/Vertical.Visuals.Studio40-39.delta" sparkle:deltaFrom="39" length="1118158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="Z5/fsaJmCROiEF5OXmy8SW9OlKRaCJIlWtxrn+yq20G4ck/iNtizIdcbcygCJanlVOQieMsslZzyyvkiBtkHAw=="/>
-                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.2.18/Vertical.Visuals.Studio40-38.delta" sparkle:deltaFrom="38" length="1347884" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="lWJyAsLRHLW8fFzNUWsh/UauaMCGNHzKqh/Yn48F6ewBuHKsAdveYtjZ9iQrNkEEtcMaOPe3O9ZMPUtxsJpACQ=="/>
-                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.2.18/Vertical.Visuals.Studio40-37.delta" sparkle:deltaFrom="37" length="1343017" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="LJT+kg2EwzZlza5IkGRqcW+1akkATO/5yKdCa6Xm0Qt4h52p56x4+zvlUQWZfEjs9DgcxmaxIBoQOU9E8+QCBQ=="/>
-                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.2.18/Vertical.Visuals.Studio40-36.delta" sparkle:deltaFrom="36" length="1424600" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="EC2Eonvih31BHYGjH2oFKJdNs+yGrEVJORHAyyHMYoYWSNXA6K8/Lwue1d+6IivVu3DuWcaO5Vlk2CF4LGL3CA=="/>
-                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v1.2.18/Vertical.Visuals.Studio40-35.delta" sparkle:deltaFrom="35" length="1426624" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XzA/BlEuYqH9q+oanA3LIkkVRwTYGGqJZFY2KXyqGU5eblHp4aJOlj9e/9IL1/SUcTLOY2xlJO2NJZIv0VSJBw=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.0.0/Vertical.Visuals.Studio41-40.delta" sparkle:deltaFrom="40" length="2218204" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="X4bFdtZX3lTx66kCRX+UQMRfuQOZWyBAV9ywfyqB+YX4RQzdAkT8YxF9JKwUwYPI+e657FuQkjfOnkACmSbaBg=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.0.0/Vertical.Visuals.Studio41-39.delta" sparkle:deltaFrom="39" length="2272844" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="gvZnYrNRy6JWYSYSaAC9jglfvAKIhYCF3m9Xec0M8WbLeV+aVaoQ6uFMSSC2toOGbMbC9WOGJdtms1TJrRQQCw=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.0.0/Vertical.Visuals.Studio41-38.delta" sparkle:deltaFrom="38" length="2326892" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="7Bgqd19wuSujoJxhQH0curvUwVbzRyN+0SLjWMsKvHpp8EAGX91J1MGNk8LA0mW8xn/3by3ojW3Nr1krzZmHAg=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.0.0/Vertical.Visuals.Studio41-37.delta" sparkle:deltaFrom="37" length="2354174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="RubuPAnJc9zNUqLCLMHV7bv7FDlRdKcs7KE6w0VW/3XNWbIeCYnJDdfigDAbW0hpR+wW8Q3t0gFpijBaLK9FCA=="/>
+                <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.0.0/Vertical.Visuals.Studio41-36.delta" sparkle:deltaFrom="36" length="2386885" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="cs,Base" sparkle:edSignature="Ifzwpu5io3O7zoJ/gwP7VCDrT0Igb6RSyIGr788LUHRXQjbXGzuapxk5JkiYO7aUrfy3Ip8M3Joh0pVJA9hwBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
