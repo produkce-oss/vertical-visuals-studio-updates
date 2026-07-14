@@ -3,13 +3,13 @@
     <channel>
         <title>Vertical Visuals Studio</title>
         <item>
-            <title>2.1.1</title>
-            <pubDate>Tue, 14 Jul 2026 10:56:28 +0200</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <title>2.1.2</title>
+            <pubDate>Tue, 14 Jul 2026 11:50:05 +0200</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.1.1/Vertical.Visuals.Studio-2.1.1.zip" length="214848061" type="application/octet-stream" sparkle:edSignature="L2ABq3npg0lo4Icu/tIAeAmk55gwJI/xYQg89ujJDQs4eGtKhq6KLjKwbPckMpZNZLNJgamu4GAXuKeqrpB1Ag=="/>
+            <enclosure url="https://github.com/produkce-oss/vertical-visuals-studio-updates/releases/download/v2.1.2/Vertical.Visuals.Studio-2.1.2.zip" length="214851850" type="application/octet-stream" sparkle:edSignature="JulHCGf2LvCJHzQuDa85eFsPOJLMqxmzN9DDLkWLe1wmaNT2Y7zZ24GpIgKR4opGzgdsBbZrw/pkEsgU5A8lDw=="/>
         </item>
     </channel>
 </rss>
